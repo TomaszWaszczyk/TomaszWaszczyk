@@ -1,6 +1,6 @@
 ### Hi there 👋
-<!--
-<img style="float: left; max-height: 50%; max-width: 50%" src="okladka.png">
+
+<img style="float: left; max-height: 35%; max-width: 35%; padding: 5px 20px 20px 0px" src="okladka.png">
 
 
 **TomaszWaszczyk/TomaszWaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
