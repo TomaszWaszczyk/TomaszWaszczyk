@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img style="float: left; height: 35%; width: 35%; padding: 5px 20px 20px 0px" src="okladka.png">
+<img align="left" style="float: left; height: 35%; width: 35%; padding: 5px 20px 20px 0px" src="okladka.png">
 
 https://www.xaprb.com/blog/how-to-style-images-with-markdown/
 
