@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="left" width="400" style="float: left; height: 35%; width: 35%; padding: 5px 20px 20px 0px" src="okladka.png">
+<img align="left" width="400" src="okladka.png">
 
 
 Here are some ideas to get you started:
