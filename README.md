@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a target="_blank" href="https://helion.pl/">
-  <img align="left" width="400" padding-right="25px" src="okladka.png">
+  <img align="left" width="3500" margin-right="25px" src="okladka.png">
 </a>
 
 Here are some ideas to get you started:
