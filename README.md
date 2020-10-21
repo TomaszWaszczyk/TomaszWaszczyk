@@ -2,7 +2,6 @@
 
 <img align="left" width="400" style="float: left; height: 35%; width: 35%; padding: 5px 20px 20px 0px" src="okladka.png">
 
-**TomaszWaszczyk/TomaszWaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
