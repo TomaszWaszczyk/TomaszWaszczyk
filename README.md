@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Kitten](/okladka.png){: width=150 height=100 style="float:left; padding:16px"}
+
 <!--
 <img style="float: left; max-height: 35%; max-width: 35%; padding: 5px 20px 20px 0px" src="okladka.png">
 
