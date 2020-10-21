@@ -1,7 +1,7 @@
 ### Hi there 👋
-
-<img align="left" width="400" src="okladka.png">
-
+<a href="https://helion.pl/">
+  <img align="left" width="400" src="okladka.png">
+</a>
 
 Here are some ideas to get you started:
 
