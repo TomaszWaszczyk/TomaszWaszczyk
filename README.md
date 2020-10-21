@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="https://helion.pl/">
+<a target="_blank" href="https://helion.pl/">
   <img align="left" width="400" src="okladka.png">
 </a>
 
