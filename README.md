@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+<!--
 <a target="_blank" href="https://helion.pl/">
   <img align="left" width="350" margin-right="25px" src="okladka.png">
 </a>
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
