@@ -12,7 +12,7 @@
 
 🌱 technologii Substrate
 
-👯 pokazuję jaki wpływ może wywrzeć na technologia
+👯 pokazuję jaki wpływ może wywrzeć ta technologia 
 
 🤔 oraz wiele więcej..
 
