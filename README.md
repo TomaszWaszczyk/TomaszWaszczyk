@@ -10,7 +10,7 @@
 
 🔭 historii ruchu cypherpunk
 
-🌱 technologii Substrate
+🌱 technologii [Substrate](https://substrate.dev/)
 
 👯 pokazuję jaki wpływ może wywrzeć ta technologia (i procesy z nią związane) na życie zawodowe, ale również prywatne
 
