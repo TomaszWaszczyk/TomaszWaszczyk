@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I maintain a validator of [Kusama Network](https://kusama.network/) you can [nominate me.](https://thousand-validators.kusama.network/#/leaderboard/FqFKeVrWbBDVBk8U9VvL8gSFwUm4nj9fEZmtQvmViZzLvnv)
+I maintain a validator of [Kusama Network](https://kusama.network/) fell free [to nominate me.]:metal:(https://thousand-validators.kusama.network/#/leaderboard/FqFKeVrWbBDVBk8U9VvL8gSFwUm4nj9fEZmtQvmViZzLvnv)
 
 <a target="_blank" href="https://videopoint.pl/kurs/blockchain-kurs-video-cyfrowa-ewolucja-w-swiecie-finansow-tomasz-waszczyk,vwszdf.htm#format/w">
   <img align="left" width="300" margin-right="25px" src="okladka.png">
