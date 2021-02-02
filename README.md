@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I maintain validator for [Kusama Network](https://kusama.network/) you can (nominate me)[https://thousand-validators.kusama.network/#/leaderboard/G1nqzheixN1fuiW5CWYvZNWs8SDtwxvJEKKsWXveVFRkdQ4]
+
 <a target="_blank" href="https://videopoint.pl/kurs/blockchain-kurs-video-cyfrowa-ewolucja-w-swiecie-finansow-tomasz-waszczyk,vwszdf.htm#format/w">
   <img align="left" width="300" margin-right="25px" src="okladka.png">
 </a>
