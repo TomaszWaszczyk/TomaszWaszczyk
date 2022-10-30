@@ -22,5 +22,5 @@ I maintain a validator of [Kusama Network](https://kusama.network/) fell free [t
 </p>
 
 <a target="_blank" href="./public.key">
-  PGP KEY :key:
+  :key: PGP KEY
 </a>
