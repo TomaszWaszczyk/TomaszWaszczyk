@@ -20,3 +20,7 @@ I maintain a validator of [Kusama Network](https://kusama.network/) fell free [t
 
 💬 Będę wdzięczny za każdą wiadomość zwrotną.
 </p>
+
+<a target="_blank" href="./public.key">
+  PGP KEY :key:
+</a>
