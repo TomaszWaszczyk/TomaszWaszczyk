@@ -24,7 +24,7 @@ I maintain a validator of [Kusama Network](https://kusama.network/) fell free [t
 
 ### 💬 Contact Me
 
-`echo dG9tYXN6QHdhc3pjenlrLmNvbQ== | base64 --decode`
+`echo dG9tYXN6QHdhc3pjenlrLmNvbQo= | base64 --decode`
 
 </p>
 
