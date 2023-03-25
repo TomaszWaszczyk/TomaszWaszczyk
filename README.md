@@ -22,7 +22,7 @@ I maintain a validator of [Kusama Network](https://kusama.network/) fell free [t
 
 :pray: Będę wdzięczny za każdą wiadomość zwrotną.
 
-## 💬 Contact Me
+### 💬 Contact Me
 
 `echo dG9tYXN6QHdhc3pjenlrLmNvbQ== | base64 --decode`
 
