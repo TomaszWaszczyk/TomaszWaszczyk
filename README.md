@@ -20,7 +20,12 @@ I maintain a validator of [Kusama Network](https://kusama.network/) fell free [t
 
 :information_source: Aktualizacja kursu: [Inwestowanie w kryptowaluty](https://www.kursinwestowaniewkryptowaluty.pl)
 
-💬 Będę wdzięczny za każdą wiadomość zwrotną.
+:pray: Będę wdzięczny za każdą wiadomość zwrotną.
+
+## 💬 Contact Me
+
+`echo dG9tYXN6QHdhc3pjenlrLmNvbQ== | base64 --decode`
+
 </p>
 
 <a target="_blank" href="./public.key">
