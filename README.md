@@ -18,7 +18,7 @@ I maintain a validator of [Kusama Network](https://kusama.network/) fell free [t
 
 🤔 oraz wiele więcej..
 
-:information_source: Aktualizacja kursu: [Inwestowanie w kryptowaluty](https://www.kursinwestowaniewkryptowaluty.pl)
+:information_source: **Aktualizacja kursu:** [Inwestowanie w kryptowaluty](https://www.kursinwestowaniewkryptowaluty.pl)
 
 :pray: Będę wdzięczny za każdą wiadomość zwrotną.
 
