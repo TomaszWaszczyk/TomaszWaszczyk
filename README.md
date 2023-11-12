@@ -22,6 +22,6 @@
 
 </p>
 
-<a target="_blank" href="./public.key">
-  :key: PGP KEY
+<a target="_blank" href="https://github.com/TomaszWaszczyk.gpg">
+  :key: PGP KEY :key:
 </a>
