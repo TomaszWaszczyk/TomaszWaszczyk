@@ -23,5 +23,5 @@
 </p>
 
 <a target="_blank" href="https://github.com/TomaszWaszczyk.gpg">
-  :key: PGP KEY :key:
+  🔑 PGP KEY 🔑
 </a>
