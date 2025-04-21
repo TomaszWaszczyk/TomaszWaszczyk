@@ -25,3 +25,81 @@
 <a target="_blank" href="https://github.com/TomaszWaszczyk.gpg">
   🔑 PGP KEY 🔑
 </a>
+
+<!--
+```
+🧠 Foundational & Classic Reads
+
+    Software Architecture in Practice
+    By: Len Bass, Paul Clements, Rick Kazman
+
+        Covers architecture concepts, patterns, and real-world case studies.
+
+        Great for understanding how architecture relates to business goals.
+
+    Clean Architecture
+    By: Robert C. Martin (Uncle Bob)
+
+        Focus on SOLID principles, boundaries, and testability.
+
+        A continuation of his “Clean Code” approach with an architectural focus.
+
+    Domain-Driven Design: Tackling Complexity in the Heart of Software
+    By: Eric Evans
+
+        Deep dive into how to design software around real business domains.
+
+        Heavy, but extremely influential.
+
+    Designing Software Architectures: A Practical Approach
+    By: Humberto Cervantes, Rick Kazman
+
+        Teaches architecture from a methodical, design-first perspective.
+
+        Based on decades of experience and field studies.
+
+🚀 Modern, Cloud-Native & Microservices
+
+    Fundamentals of Software Architecture
+    By: Mark Richards, Neal Ford
+
+        Balanced mix of theory and practice.
+
+        Covers monoliths, microservices, event-driven systems, etc.
+
+    Software Architecture: The Hard Parts
+    By: Neal Ford, Mark Richards, Pramod Sadalage
+
+        Follow-up to the book above, focused on trade-offs and architectural decisions.
+
+        Real-world challenges like service granularity, data ownership, and coupling.
+
+    Building Microservices
+    By: Sam Newman
+
+        Deeply practical book for building and scaling microservices.
+
+        Covers deployment, monitoring, and data management too.
+
+    The Art of Scalability
+    By: Martin L. Abbott & Michael T. Fisher
+
+        Focuses on designing scalable, high-performance systems.
+
+        Ideal for architects working on large-scale systems.
+
+⚙️ Pattern-Focused
+
+    Patterns of Enterprise Application Architecture
+    By: Martin Fowler
+
+        Explains common enterprise patterns like Data Mapper, Service Layer, etc.
+
+        A bit old, but still very relevant.
+
+    Software Architecture Patterns (free ebook)
+    By: Mark Richards
+
+        Covers layered, microkernel, microservices, event-driven, and space-based architecture patterns.
+```
+-->
