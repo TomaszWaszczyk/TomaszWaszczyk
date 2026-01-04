@@ -26,6 +26,12 @@
   🔑 PGP KEY 🔑
 </a>
 
+📚 Currently Reading
+
+- Designing Data-Intensive Applications By Martin Kleppmann (recommended)
+
+Currently reading any interesting books? Let me know!
+
 <!--
 ```
 🧠 Foundational & Classic Reads
