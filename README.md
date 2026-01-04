@@ -30,7 +30,8 @@
 
 📚 Currently Reading
 
-- Designing Data-Intensive Applications By Martin Kleppmann (recommended)
+- Designing Data-Intensive Applications by Martin Kleppmann (recommended)
+- Web Scalability for Startup Engineers: Tips and Techniques for Scaling Your Web Application by Arthur Ejsmont
 
 Currently reading any interesting books? Let me know!
 
