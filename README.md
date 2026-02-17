@@ -34,6 +34,7 @@
 - Web Scalability for Startup Engineers: Tips and Techniques for Scaling Your Web Application by Arthur Ejsmont
 - Microservices Patterns: With examples in Java by Chris Richardson
 - Building Microservices (2nd Ed.) by	Sam Newman
+- A Philosophy of Software Design by John Ousterhout
 
 Currently reading any interesting books? Let me know!
 
