@@ -32,6 +32,8 @@
 
 - Designing Data-Intensive Applications by Martin Kleppmann (recommended)
 - Web Scalability for Startup Engineers: Tips and Techniques for Scaling Your Web Application by Arthur Ejsmont
+- Microservices Patterns: With examples in Java by Chris Richardson
+- Building Microservices (2nd Ed.) by	Sam Newman
 
 Currently reading any interesting books? Let me know!
 
