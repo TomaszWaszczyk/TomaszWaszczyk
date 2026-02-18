@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> Du mußt herrschen und gewinnen, oder dienen und verlieren, leiden oder triumphieren, Amboß oder Hammer sein.
+
 <a target="_blank" href="https://videopoint.pl/kurs/blockchain-kurs-video-cyfrowa-ewolucja-w-swiecie-finansow-tomasz-waszczyk,vwszdf.htm#format/w">
   <img align="left" width="300" margin-right="25px" src="okladka.png">
 </a>
