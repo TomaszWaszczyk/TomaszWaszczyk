@@ -37,6 +37,7 @@
 - Microservices Patterns: With examples in Java by Chris Richardson
 - Building Microservices (2nd Ed.) by	Sam Newman
 - A Philosophy of Software Design by John Ousterhout
+- Debug Your Brain: The Software Engineer's Guide to Mental Health by John Crain Welsby 
 
 Currently reading any interesting books? Let me know!
 
