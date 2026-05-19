@@ -1,10 +1,12 @@
 ## Hi there 👋
 
+```mermaid
 flowchart LR
   A[Looks simple] --> B[Investigate]
   B --> C[Not simple]
   C --> D[Refactor]
   D --> E[It depends]
+```
 
 > Du mußt herrschen und gewinnen, oder dienen und verlieren, leiden oder triumphieren, Amboß oder Hammer sein.
 
