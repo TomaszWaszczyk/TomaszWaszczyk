@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+flowchart LR
+  A[Looks simple] --> B[Investigate]
+  B --> C[Not simple]
+  C --> D[Refactor]
+  D --> E[It depends]
+
 > Du mußt herrschen und gewinnen, oder dienen und verlieren, leiden oder triumphieren, Amboß oder Hammer sein.
 
 <a target="_blank" href="https://videopoint.pl/kurs/blockchain-kurs-video-cyfrowa-ewolucja-w-swiecie-finansow-tomasz-waszczyk,vwszdf.htm#format/w">
