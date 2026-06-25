@@ -37,7 +37,10 @@
 - Microservices Patterns: With examples in Java by Chris Richardson
 - Building Microservices (2nd Ed.) by	Sam Newman
 - A Philosophy of Software Design by John Ousterhout
-- Debug Your Brain: The Software Engineer's Guide to Mental Health by John Crain Welsby 
+- Debug Your Brain: The Software Engineer's Guide to Mental Health by John Crain Welsby
+- Mastering Claude AI: Practical Journey from First Prompts to Pro with Claude AI
+- Rynek transportu w ujęciu "sztucznej inteligencji" ("AI")
+
 
 Currently reading any interesting books? Let me know!
 
