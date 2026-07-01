@@ -46,6 +46,8 @@ Currently reading any interesting books? Let me know!
 
 </p>
 
+[![Polish Open Source badge](https://polish-open-source.pl/badges/users/github/TomaszWaszczyk.svg)](https://polish-open-source.pl/en/people)
+
 <!--
 ```
 🧠 Foundational & Classic Reads
